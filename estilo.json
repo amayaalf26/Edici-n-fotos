@@ -1,0 +1,9 @@
+{
+  "tamano": [1080, 1920],
+  "margen": 60,
+  "calidad": 95,
+  "fotos": {
+    "libro_octubre22.jpg":    {"recorte": [0.05, 0.04, 0.86, 0.80], "modo": "papel", "rotar": 0},
+    "pantalla_1timoteo.jpg":  {"recorte": [0.03, 0.17, 0.97, 0.895], "modo": "pantalla", "rotar": 0}
+  }
+}
