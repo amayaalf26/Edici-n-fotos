@@ -5,3 +5,6 @@
 3. El resultado queda en `salida/*_historia.jpg` (1080x1920, listo para subir a historias).
 
 Requiere: `pip install opencv-python-headless numpy`
+
+## Historia única (versículo + reflexión)
+`python componer.py` -> `salida/historia_gratitud_pablo.jpg` (título, versículo y reflexión en una sola imagen 1080x1920).

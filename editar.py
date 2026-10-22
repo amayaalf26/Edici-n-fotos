@@ -56,4 +56,5 @@ def main():
         cv2.imwrite(dest, out, [cv2.IMWRITE_JPEG_QUALITY, cfg["calidad"]])
         print("OK", dest, out.shape[1], "x", out.shape[0])
 
-main()
+if __name__ == "__main__":
+    main()
